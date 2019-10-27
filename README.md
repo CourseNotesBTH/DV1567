@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Logo" src="https://github.com/CourseNotesBTH/DV1567/raw/master/logo.png">
+</p>
+
 # DV1567
 Course notes and the like for DV1567- Performance Optimization
 
@@ -31,16 +35,10 @@ There are some different type of files that you may come across in each course n
 
 | File name                       | Labels | Description                                                  |
 | ------------------------------- | :----: | ------------------------------------------------------------ |
-| Cheat sheet.md                  | ⚠️📝  🇸🇪 | Everything necessary to pass the class in one paper          |
-| Cheat sheet.pdf                 | ⚠️📝 🇸🇪  | Rendered version of the same file                            |
-| Cheat sheet.m                   |  📝 🇸🇪  | Most of the formulas and algorithms from exams implemented in Matlab |
+| Cheat sheet.md                  | 📝  🇸🇪 | Everything necessary to pass the class in one paper          |
+| Cheat sheet.pdf                 | 📝 🇸🇪  | Rendered version of the same file                            |
 | Course notes.md                 |  🇸🇪 ⚠️  | Course notes from lectures held in 2019. Requires Typora or any other Markdown & MathJax compatible editor |
 | Course notes.pdf                |  🇸🇪 ⚠️  | Rendered version of the same file                            |
-| Solutions/Example Exam.m        |   👨‍💻   | Solution proposal for example exam question 6 2019           |
-| Solutions/Exam May 27th, 2016.m |   👨‍💻   | Solutions for exam from May 27th, 2016                       |
-| Solutions/Exam May 30th, 2018.m |   👨‍💻   | Solutions for exam from May 30th, 2018                       |
-| Example Questions/Chapter N.pdf |   🇸🇪   | Examples from chapter N. From courses held in 2019           |
-| Example Questions/Solutions     |   👨‍💻   | Solutions for example questions from chapters. From courses held in 2019 |
 
 # Purpose of the repository
 
